@@ -1,0 +1,1690 @@
+{
+"12": [
+{
+"id": "V01_00",
+"ko": "시간·순서",
+"vi": "Thời gian – trình tự",
+"gn": [
+"L",
+"Mỗi mẫu một nghĩa riêng. Chỉ -자마자 ≈ -는 대로 ≈ -기가 무섭게 (vừa… là ngay) và -고 나서 ≈ -(으)ㄴ 다음에 thay được cho nhau (học ở câu 3–4)."
+],
+"w": [
+{
+"p": "-다가",
+"m": "đang... thì (bị ngắt quãng)",
+"ex": "휴대 전화를 __보다가__ 내려야 할 역을 지나쳤다.",
+"v": "[Đang xem] điện thoại thì đi quá mất ga phải xuống."
+},
+{
+"p": "-았/었다가",
+"m": "làm xong... rồi (chuyển sang việc ngược lại)",
+"ex": "지난 방학 때 부모님과 함께 제주도에 __갔다가__ 왔다.",
+"v": "Kỳ nghỉ trước tôi cùng bố mẹ [đi] đảo Jeju [rồi về]."
+},
+{
+"p": "-고 나서",
+"m": "làm xong... rồi mới...",
+"ex": "감기약을 __먹고 나서__ 열이 내렸다.",
+"v": "[Uống] thuốc cảm [xong thì] hạ sốt."
+},
+{
+"p": "-자마자",
+"m": "vừa... là... ngay",
+"ex": "민수 씨는 대학교를 __졸업하자마자__ 회사에 취직했다.",
+"v": "Anh Minsu [vừa tốt nghiệp] đại học [là] vào làm ở công ty ngay."
+},
+{
+"p": "-(으)ㄴ 지",
+"m": "từ khi... đã được (bao lâu)",
+"ex": "이 동네로 이사를 __온 지__ 일 년이 됐다.",
+"v": "[Chuyển đến] khu phố này [đã được] một năm."
+},
+{
+"p": "-는 길에",
+"m": "trên đường (đi/về) thì tiện...",
+"ex": "집에 __오는 길에__ 빵을 사 가지고 왔습니다.",
+"v": "[Trên đường về] nhà tôi mua bánh mì mang về."
+},
+{
+"p": "-(으)ㄴ 채(로)",
+"m": "giữ nguyên trạng thái... mà...",
+"ex": "창문을 __연 채로__ 자서 감기에 걸렸다.",
+"v": "[Để nguyên cửa sổ mở] mà ngủ nên bị cảm."
+},
+{
+"p": "-도록",
+"m": "đến tận (thời gian, mức độ)",
+"ex": "동생이 밤 12시가 __되도록__ 집에 들어오지 않았다.",
+"v": "Em tôi [đến tận] 12 giờ đêm vẫn chưa về nhà."
+},
+{
+"p": "-는데",
+"m": "đang (bối cảnh) thì...",
+"ex": "운동장에서 축구를 __하는데__ 선생님이 나를 부르셨다.",
+"v": "[Đang đá] bóng ở sân thì thầy giáo gọi tôi."
+}
+]
+},
+{
+"id": "V01_01",
+"ko": "선택",
+"vi": "Lựa chọn",
+"gn": [
+"L",
+"-거나 = hoặc (chọn một trong hai việc); -든지 = dù… nào cũng (bất kể, hay đi với 무슨, 어느, 누구)."
+],
+"w": [
+{
+"p": "-거나",
+"m": "hoặc là... hoặc là...",
+"ex": "주말에는 집에서 __쉬거나__ 친구를 만나요.",
+"v": "Cuối tuần tôi [nghỉ] ở nhà [hoặc] gặp bạn bè."
+},
+{
+"p": "-든지",
+"m": "dù... nào/gì cũng...",
+"ex": "무슨 일을 __하든지__ 열심히 하는 것이 중요하다.",
+"v": "[Dù làm] việc gì thì làm chăm chỉ cũng quan trọng."
+}
+]
+},
+{
+"id": "V01_02",
+"ko": "목적",
+"vi": "Mục đích",
+"gn": [
+"L",
+"Chỉ -(으)려고 = -기 위해(서) = -고자 thay được (cùng nghĩa “để”). -(으)려면 (nếu muốn… thì) và -(으)ㄹ 겸 (vừa để… vừa để) khác nghĩa."
+],
+"w": [
+{
+"p": "-(으)려고",
+"m": "để (ý định)",
+"ex": "해가 뜨는 것을 __보려고__ 아침 일찍 일어났다.",
+"v": "Tôi dậy từ sáng sớm [để ngắm] mặt trời mọc."
+},
+{
+"p": "-기 위해(서)",
+"m": "để (mục đích)",
+"ex": "요즘 체중을 __줄이기 위해__ 매일 운동을 하고 있다.",
+"v": "Dạo này tôi tập thể dục mỗi ngày [để giảm] cân."
+},
+{
+"p": "-고자",
+"m": "để (văn viết)",
+"ex": "우리는 되도록 빨리 __도착하고자__ 서둘렀다.",
+"v": "Chúng tôi vội vàng [để đến nơi] càng sớm càng tốt."
+},
+{
+"p": "-(으)려면",
+"m": "muốn... thì (phải)...",
+"ex": "키가 __크려면__ 음식을 골고루 먹어야 한다.",
+"v": "[Muốn] cao [thì] phải ăn uống đủ chất."
+},
+{
+"p": "-(으)ㄹ 겸",
+"m": "kiêm luôn, nhân tiện",
+"ex": "친구도 만나고 영화도 __볼 겸__ 극장에 갔다.",
+"v": "Tôi đến rạp [vừa để] gặp bạn [vừa để xem] phim."
+}
+]
+},
+{
+"id": "V01_03",
+"ko": "조건",
+"vi": "Điều kiện",
+"gn": [
+"L",
+"Mỗi mẫu một kiểu điều kiện, không thay cho nhau: -(으)면 nếu · -아/어야 phải… mới · -다면 nếu giả định · -거든 nếu… thì (vế sau mệnh lệnh) · -다 보면 cứ… thì · -(으)ㄹ수록 càng… càng."
+],
+"w": [
+{
+"p": "-(으)면",
+"m": "nếu/hễ... thì...",
+"ex": "책을 많이 __읽으면__ 지식을 쌓을 수 있다.",
+"v": "[Đọc] nhiều sách [thì] có thể tích lũy kiến thức."
+},
+{
+"p": "-아/어야",
+"m": "phải... mới...",
+"ex": "아침에 일찍 __일어나야__ 일곱 시 비행기를 탈 수 있다.",
+"v": "[Phải dậy] sớm [thì mới] kịp chuyến bay 7 giờ."
+},
+{
+"p": "-다면",
+"m": "nếu (mà)... thì...",
+"ex": "로또에 __당첨된다면__ 세계 여행을 떠나고 싶어요.",
+"v": "[Nếu trúng] xổ số thì tôi muốn đi du lịch vòng quanh thế giới."
+},
+{
+"p": "-거든",
+"m": "hễ/nếu... thì hãy/nhớ...",
+"ex": "서울에 __도착하거든__ 저한테 꼭 연락하세요.",
+"v": "[Đến] Seoul [thì] nhớ liên lạc cho tôi nhé."
+},
+{
+"p": "-다(가) 보면",
+"m": "hễ cứ duy trì... thì dần dần sẽ...",
+"ex": "매일 조금씩이라도 한국어를 __공부하다 보면__ 실력이 늘 거예요.",
+"v": "[Cứ học] tiếng Hàn mỗi ngày một chút [thì] trình độ sẽ tăng."
+},
+{
+"p": "-(으)ㄹ수록",
+"m": "càng... thì càng...",
+"ex": "한국어는 __공부할수록__ 더 재미있어져요.",
+"v": "Tiếng Hàn [càng học càng] thấy thú vị."
+}
+]
+},
+{
+"id": "V01_04",
+"ko": "양보",
+"vi": "Nhượng bộ",
+"gn": [
+"C",
+"-아/어도 ≈ -더라도 thay được (dù… cũng); -더라도 giả định mạnh hơn, hay đi với 아무리."
+],
+"w": [
+{
+"p": "-아/어도",
+"m": "dù... cũng...",
+"ex": "형은 차가워 __보여도__ 마음은 따뜻하다.",
+"v": "Anh trai [dù trông] lạnh lùng nhưng tấm lòng ấm áp."
+},
+{
+"p": "-더라도",
+"m": "dù (có)... đi nữa cũng...",
+"ex": "아무리 화가 __나더라도__ 친구와 싸우면 안 된다.",
+"v": "[Dù giận] đến mấy cũng không được cãi nhau với bạn."
+}
+]
+},
+{
+"id": "V01_05",
+"ko": "이유",
+"vi": "Lý do",
+"gn": [
+"L",
+"Đều chỉ lý do nhưng cách dùng khác nhau, không tự thay cho nhau. Chỉ -는 바람에 ≈ -(으)ㄴ 탓에 ≈ -는 통에 (lý do → kết quả xấu) thay được (học ở câu 3–4)."
+],
+"w": [
+{
+"p": "-(으)니까",
+"m": "vì...; làm... thì phát hiện ra...",
+"ex": "집에 __도착하니까__ 비가 내리기 시작했다.",
+"v": "[Về đến] nhà [thì] trời bắt đầu mưa."
+},
+{
+"p": "-느라고",
+"m": "vì mải làm... nên (kết quả xấu)",
+"ex": "요즘 새로운 일에 __적응하느라고__ 매우 바쁘다.",
+"v": "Dạo này [mải thích nghi] với việc mới nên rất bận."
+},
+{
+"p": "-는 바람에",
+"m": "vì (sự cố bất ngờ) nên...",
+"ex": "휴대 전화를 __분실하는 바람에__ 전화번호를 다 잃어버렸어요.",
+"v": "[Vì làm mất] điện thoại nên mất hết số điện thoại."
+},
+{
+"p": "-길래",
+"m": "vì thấy... nên (tôi) đã...",
+"ex": "배가 __고프길래__ 라면을 끓여 먹었다.",
+"v": "[Thấy] đói bụng [nên] nấu mì ăn."
+},
+{
+"p": "-(으)ㄹ까 봐",
+"m": "sợ... nên...",
+"ex": "이 음식이 __매울까 봐__ 안 먹었는데 생각보다 맵지 않네요.",
+"v": "[Sợ] món này [cay nên] không ăn, hóa ra không cay như tôi nghĩ."
+},
+{
+"p": "-(으)ㄹ 텐데",
+"m": "chắc là... nên (hãy)...",
+"ex": "내일은 비가 __올 텐데__ 등산은 다음에 갑시다.",
+"v": "Mai [chắc trời mưa nên] để lần khác đi leo núi nhé."
+}
+]
+},
+{
+"id": "V01_06",
+"ko": "관찰·기타",
+"vi": "Quan sát – khác",
+"gn": [
+"L",
+"Mỗi mẫu một nghĩa riêng, không thay cho nhau. Riêng -(으)ㄴ/는 데다가 = -(으)ㄹ 뿐만 아니라 (không những… mà còn) ở câu 3–4."
+],
+"w": [
+{
+"p": "-더니",
+"m": "đã thấy... (nay thì thay đổi)",
+"ex": "밤에는 바람이 거세게 __불더니__ 아침이 되니까 조용해졌다.",
+"v": "Đêm qua gió [thổi] mạnh, [vậy mà] sáng ra thì lặng hẳn."
+},
+{
+"p": "-았/었더니",
+"m": "(tôi) làm... rồi thì (phát hiện/kết quả)",
+"ex": "오랜만에 운동을 __했더니__ 온몸이 아프다.",
+"v": "Lâu rồi mới [tập] thể dục [nên giờ] đau khắp người."
+},
+{
+"p": "-(으)려다가",
+"m": "định... nhưng (thôi/đổi ý)",
+"ex": "부모님을 모시고 여행을 __가려다가__ 날씨가 나빠서 취소했다.",
+"v": "[Định] đưa bố mẹ đi du lịch [nhưng] thời tiết xấu nên đã hủy."
+},
+{
+"p": "-(으)ㄴ/는 데다가",
+"m": "đã... lại còn...",
+"ex": "그 가게는 야채가 __신선한 데다가__ 가격도 싸다.",
+"v": "Cửa hàng đó rau [đã tươi lại] còn rẻ."
+},
+{
+"p": "-다시피",
+"m": "như (mọi người) đã biết/thấy",
+"ex": "모두들 __알다시피__ 이 건물이 한국에서 가장 높은 건물이다.",
+"v": "[Như] mọi người đều [biết], tòa nhà này cao nhất Hàn Quốc."
+},
+{
+"p": "-아/어다가",
+"m": "làm... rồi mang (kết quả) đi...",
+"ex": "도서관에서 책을 __빌려다가__ 보세요.",
+"v": "Em [mượn] sách ở thư viện [về mà] đọc nhé."
+},
+{
+"p": "-(으)면서",
+"m": "vừa... vừa...",
+"ex": "저는 음악을 __들으면서__ 숙제를 합니다.",
+"v": "Tôi [vừa nghe] nhạc [vừa] làm bài tập."
+}
+]
+},
+{
+"id": "V01_07",
+"ko": "종결: 상태·변화",
+"vi": "Đuôi câu: trạng thái, thay đổi",
+"gn": [
+"L",
+"Mỗi mẫu một nghĩa: -아/어 가다 đang dần · -게 되다 trở nên / được (do hoàn cảnh) · -아/어 놓다 làm sẵn · -아/어 있다 trạng thái còn lại."
+],
+"w": [
+{
+"p": "-아/어 가다",
+"m": "(dần dần) đang... đi",
+"ex": "동생이 점점 아버지를 __닮아 간다__.",
+"v": "Em tôi [ngày càng giống] bố."
+},
+{
+"p": "-게 되다",
+"m": "(kết quả là) trở nên, được...",
+"ex": "한국 친구 덕분에 한국 문화를 많이 __알게 되었다__.",
+"v": "Nhờ bạn Hàn Quốc mà tôi [đã biết được] nhiều về văn hóa Hàn."
+},
+{
+"p": "-아/어 놓다",
+"m": "làm sẵn...",
+"ex": "내일 김밥을 만들려고 재료를 미리 __준비해 놓았다__.",
+"v": "Để mai làm kimbap, tôi đã [chuẩn bị sẵn] nguyên liệu."
+},
+{
+"p": "-아/어 있다",
+"m": "đang ở trạng thái... (còn lại)",
+"ex": "집에 와 보니까 동생이 여행에서 __돌아와 있었다__.",
+"v": "Về đến nhà thì thấy em tôi [đã về] từ chuyến du lịch [rồi]."
+}
+]
+},
+{
+"id": "V01_08",
+"ko": "종결: 경험·계획·습관",
+"vi": "Đuôi câu: kinh nghiệm, dự định, thói quen",
+"gn": [
+"L",
+"Mỗi mẫu một nghĩa: đã từng · quyết định / hẹn · thường hay (thói quen) · thuộc dạng, khá là."
+],
+"w": [
+{
+"p": "-(으)ㄴ 적이 있다",
+"m": "đã từng...",
+"ex": "나는 오래전에 설악산을 __등산한 적이 있다__.",
+"v": "Tôi [đã từng leo] núi Seorak từ lâu rồi."
+},
+{
+"p": "-기로 하다",
+"m": "quyết định/hẹn sẽ...",
+"ex": "내일 친구와 함께 놀이공원에 __가기로 했다__.",
+"v": "Mai tôi [đã hẹn đi] công viên giải trí với bạn."
+},
+{
+"p": "-곤 하다",
+"m": "thường hay... (thói quen)",
+"ex": "매주 일요일이면 아이들을 데리고 공원에 __가곤 했다__.",
+"v": "Chủ nhật hằng tuần tôi [thường hay dẫn] bọn trẻ đi công viên."
+},
+{
+"p": "-는 편이다",
+"m": "thuộc loại..., khá là...",
+"ex": "장마 기간에는 비가 많이 __내리는 편이다__.",
+"v": "Mùa mưa thì trời [thường khá hay mưa] nhiều."
+}
+]
+},
+{
+"id": "V01_09",
+"ko": "종결: 추측·판단",
+"vi": "Đuôi câu: phỏng đoán, suýt, coi như",
+"gn": [
+"L",
+"Chỉ -나 보다 = -(으)ㄴ/는 모양이다 thay được (hình như). -(으)ㄹ 뻔하다 (suýt) và -(으)ㄴ/는 셈이다 (coi như) nghĩa khác hẳn."
+],
+"w": [
+{
+"p": "-나 보다",
+"m": "hình như, chắc là...",
+"ex": "밥을 조금만 먹는 것을 보니 입맛이 __없나 보다__.",
+"v": "Thấy ăn ít quá, [hình như] không ngon miệng."
+},
+{
+"p": "-(으)ㄴ/는 모양이다",
+"m": "có vẻ như...",
+"ex": "꽃이 피기 시작하는 걸 보니 봄이 __온 모양이다__.",
+"v": "Thấy hoa bắt đầu nở, [có vẻ] mùa xuân [đã đến]."
+},
+{
+"p": "-(으)ㄹ 뻔하다",
+"m": "suýt nữa thì...",
+"ex": "늦잠을 자느라고 학교에 __지각할 뻔했다__.",
+"v": "Ngủ quên nên [suýt nữa] đi học muộn."
+},
+{
+"p": "-(으)ㄴ/는 셈이다",
+"m": "coi như là, gần như là...",
+"ex": "오늘이 27일이니까 이번 달도 거의 다 __지나간 셈이다__.",
+"v": "Hôm nay là ngày 27 nên tháng này [coi như] đã hết."
+}
+]
+},
+{
+"id": "V01_10",
+"ko": "조사 (심화)",
+"vi": "Tiểu từ – nâng cao",
+"gn": [
+"L",
+"Tiểu từ, mỗi cái một nghĩa: 치고 hễ là · 치고는 so với… thì · 야말로 chính là · (이)나마 dù chỉ là · (이)라도 dù chỉ / ít nhất · 만 못하다 không bằng."
+],
+"w": [
+{
+"p": "N치고",
+"m": "hễ là N thì (không ai không)...",
+"ex": "__부모치고__ 자식 사랑하지 않는 사람은 없다.",
+"v": "[Đã là] bố mẹ [thì] không ai không thương con."
+},
+{
+"p": "N치고는",
+"m": "so với N thì...",
+"ex": "두 사람은 __연인치고는__ 서로에 대해 잘 모르는 편이다.",
+"v": "Hai người [so với] người yêu [thì] hiểu về nhau khá ít."
+},
+{
+"p": "N(이)야말로",
+"m": "chính N mới là...",
+"ex": "우리가 아무 생각 없이 사용하는 __샴푸야말로__ 수질 오염의 주범이다.",
+"v": "[Chính] dầu gội ta dùng không suy nghĩ [mới] là thủ phạm chính gây ô nhiễm nước."
+},
+{
+"p": "N(이)나마",
+"m": "dù chỉ là N (nhưng vẫn)...",
+"ex": "__전화로나마__ 어머니 목소리를 들어 기분이 좋아졌다.",
+"v": "[Dù chỉ qua] điện thoại được nghe giọng mẹ nên tâm trạng tốt hẳn."
+},
+{
+"p": "N(이)라도",
+"m": "dù chỉ là N cũng được",
+"ex": "좋아하는 가수의 얼굴을 __잠깐이라도__ 볼 수 있어서 참 행복했다.",
+"v": "Được nhìn mặt ca sĩ yêu thích [dù chỉ một chút] nên rất hạnh phúc."
+},
+{
+"p": "N만 못하다",
+"m": "không bằng N",
+"ex": "실력이 __예전만 못하지만__ 며칠 연습하면 시합에 나갈 수 있을 것이다.",
+"v": "Trình độ [không bằng ngày xưa] nhưng luyện vài hôm là ra thi đấu được."
+}
+]
+},
+{
+"id": "V01_11",
+"ko": "비교·판단 (심화)",
+"vi": "So sánh, phán đoán – ít gặp",
+"gn": [
+"L",
+"Mẫu ít gặp, mỗi mẫu một nghĩa, không thay cho nhau."
+],
+"w": [
+{
+"p": "-(으)ㄴ 결과",
+"m": "kết quả của việc... là...",
+"ex": "설문 조사를 __실시한 결과__, 응답자의 70%가 재택근무를 선호했습니다.",
+"v": "[Kết quả] khảo sát [cho thấy] 70% người trả lời thích làm việc tại nhà."
+},
+{
+"p": "-(으)ㄴ 것보다",
+"m": "so với việc...",
+"ex": "혼자 __여행하는 것보다__ 친구랑 같이 가는 게 더 재미있어요.",
+"v": "[So với đi] du lịch một mình thì đi cùng bạn vui hơn."
+},
+{
+"p": "-(으)ㄴ 것치고",
+"m": "so với việc... thì...",
+"ex": "처음 __만든 것치고__ 케이크가 정말 잘 나왔네요.",
+"v": "[So với lần đầu] làm [thì] bánh kem ra lò đẹp thật."
+},
+{
+"p": "-는 대신에",
+"m": "thay vì..., bù lại...",
+"ex": "커피를 __마시는 대신에__ 차를 마시기 시작했어요.",
+"v": "Tôi bắt đầu uống trà [thay vì uống] cà phê."
+},
+{
+"p": "-(으)ㄴ/는 셈치다",
+"m": "coi như là... (dù thực tế không phải)",
+"ex": "돈을 __잃어버린 셈 치고__ 그냥 잊어버리기로 했어요.",
+"v": "[Coi như] mất tiền rồi, tôi quyết định quên đi."
+},
+{
+"p": "-어야 할 것 같다",
+"m": "có vẻ cần phải...",
+"ex": "요즘 계속 피곤한 걸 보니 병원에 __가 봐야 할 것 같아요__.",
+"v": "Dạo này cứ mệt mỏi suốt, [chắc phải đi] bệnh viện xem sao."
+},
+{
+"p": "-다시피 하다",
+"m": "gần như là..., coi như là...",
+"ex": "요즘 너무 바빠서 매일 회사에서 __살다시피 해요__.",
+"v": "Dạo này bận quá, ngày nào cũng [gần như sống] ở công ty."
+},
+{
+"p": "-기 십상이다",
+"m": "rất dễ dẫn đến/dễ bị...",
+"ex": "그렇게 서두르다가는 __실수하기 십상이에요__.",
+"v": "Vội vàng như thế thì [dễ mắc lỗi] lắm."
+}
+]
+},
+{
+"id": "V01_12",
+"ko": "인용·피동 (심화)",
+"vi": "Trích dẫn, bị động – ít gặp",
+"gn": [
+"L",
+"Mẫu ít gặp: 3 kiểu câu gián tiếp (bảo / hỏi / nói sẽ) và bị động; không thay cho nhau."
+],
+"w": [
+{
+"p": "-라고 (하다)",
+"m": "bảo là/dặn là phải...",
+"ex": "선생님이 숙제를 꼭 __내라고 하셨어요__.",
+"v": "Thầy giáo [bảo là] nhất định phải nộp bài tập."
+},
+{
+"p": "-겠냐고 (하다)",
+"m": "hỏi xem có (sẽ)... không",
+"ex": "친구가 저한테 내일 시간이 __있겠냐고 물어봤어요__.",
+"v": "Bạn [hỏi] tôi mai [có rảnh không]."
+},
+{
+"p": "-겠다고 (하다)",
+"m": "nói/tuyên bố là sẽ...",
+"ex": "그는 이번에는 꼭 담배를 __끊겠다고 했어요__.",
+"v": "Anh ấy [nói là] lần này nhất định [sẽ bỏ] thuốc lá."
+},
+{
+"p": "-어지다 / -기다",
+"m": "bị..., được..., tự nhiên...",
+"ex": "창문이 바람에 갑자기 __닫혔어요__.",
+"v": "Cửa sổ bỗng [bị] gió [đóng sập lại]."
+}
+]
+}
+],
+"34": [
+{
+"id": "V03_00",
+"ko": "추측",
+"vi": "Nhóm 01 · Suy đoán",
+"gn": [
+"C",
+"Thay được cho nhau (hình như, có vẻ). Lưu ý: -나 보다, -는 모양이다 không dùng cho chính mình."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는 것 같다",
+"m": "có vẻ như",
+"ex": "짐 옮기는 소리가 나는 걸 보니까 옆집이 이사를 __가는 것 같다__.",
+"v": "Nghe tiếng chuyển đồ, [hình như] nhà bên cạnh [chuyển nhà]."
+},
+{
+"p": "-는 듯하다",
+"m": "dường như",
+"ex": "옆집이 이사를 __가는 듯하다__.",
+"v": "Nhà bên cạnh [dường như chuyển nhà]."
+},
+{
+"p": "-나 보다",
+"m": "hình như (xem chừng)",
+"ex": "옆집이 이사를 __가나 보다__.",
+"v": "Nhà bên cạnh [chắc là chuyển nhà]."
+},
+{
+"p": "-는 모양이다",
+"m": "có vẻ là",
+"ex": "옆집이 이사를 __가는 모양이다__.",
+"v": "Nhà bên cạnh [có vẻ chuyển nhà]."
+}
+]
+},
+{
+"id": "V03_01",
+"ko": "정도",
+"vi": "Nhóm 02 · Mức độ",
+"gn": [
+"T",
+"Thay được cho nhau (đến mức)."
+],
+"w": [
+{
+"p": "-(으)ㄹ 정도로",
+"m": "đến mức mà",
+"ex": "친구를 얼마 전에 만났는데 __몰라볼 정도로__ 살이 많이 빠져 있었다.",
+"v": "Gặp bạn cách đây ít lâu, bạn gầy đi nhiều [đến mức không nhận ra]."
+},
+{
+"p": "-(으)ㄹ 만큼",
+"m": "đến nỗi mà",
+"ex": "__몰라볼 만큼__ 살이 많이 빠져 있었다.",
+"v": "Bạn gầy đi nhiều [đến mức không nhận ra]."
+},
+{
+"p": "-게",
+"m": "đến độ",
+"ex": "__몰라보게__ 살이 많이 빠져 있었다.",
+"v": "Bạn gầy đi nhiều [đến không nhận ra]."
+}
+]
+},
+{
+"id": "V03_02",
+"ko": "당위",
+"vi": "Nhóm 03 · Tất yếu, đương nhiên",
+"gn": [
+"T",
+"Thay được cho nhau (lẽ thường, đương nhiên)."
+],
+"w": [
+{
+"p": "-기 마련이다",
+"m": "tất nhiên sẽ",
+"ex": "물건이 오래되면 사용하지 않아도 __낡기 마련이다__.",
+"v": "Đồ đạc lâu năm thì dù không dùng [cũng cũ đi là lẽ thường]."
+},
+{
+"p": "-는 법이다",
+"m": "lẽ dĩ nhiên là",
+"ex": "물건이 오래되면 사용하지 않아도 __낡는 법이다__.",
+"v": "Đồ đạc lâu năm thì dù không dùng [cũng cũ đi là lẽ tự nhiên]."
+},
+{
+"p": "-게 돼 있다",
+"m": "vốn dĩ là (sẽ)",
+"ex": "물건이 오래되면 사용하지 않아도 __낡게 돼 있다__.",
+"v": "Đồ đạc lâu năm thì dù không dùng [thế nào cũng cũ]."
+}
+]
+},
+{
+"id": "V03_03",
+"ko": "유일",
+"vi": "Nhóm 04 · Duy nhất, bắt buộc",
+"gn": [
+"T",
+"Thay được cho nhau (đành phải, không còn cách nào)."
+],
+"w": [
+{
+"p": "-(으)ㄹ 수밖에 없다",
+"m": "đành phải",
+"ex": "열이 너무 심하게 나서 병원에 __갈 수밖에 없었다__.",
+"v": "Sốt cao quá nên [đành phải đi] bệnh viện."
+},
+{
+"p": "-아/어야만 했다",
+"m": "buộc phải",
+"ex": "열이 너무 심하게 나서 병원에 __가야만 했다__.",
+"v": "Sốt cao quá nên [đã phải đi] bệnh viện."
+},
+{
+"p": "-지 않을 수 없다",
+"m": "không thể không",
+"ex": "열이 너무 심하게 나서 병원에 __가지 않을 수 없었다__.",
+"v": "Sốt cao quá nên [không thể không đi] bệnh viện."
+}
+]
+},
+{
+"id": "V03_04",
+"ko": "포함: 추가",
+"vi": "Nhóm 05 · Bổ sung",
+"gn": [
+"T",
+"Thay được cho nhau (không những… mà còn). Hai vế phải cùng chiều: cùng tốt hoặc cùng xấu."
+],
+"w": [
+{
+"p": "-(으)ㄹ 뿐만 아니라",
+"m": "không những... mà còn",
+"ex": "이 식당은 음식 값이 __쌀 뿐만 아니라__ 종업원도 아주 친절하다.",
+"v": "Quán này [không những giá rẻ mà] nhân viên còn rất thân thiện."
+},
+{
+"p": "-(으)ㄴ/는 데다가",
+"m": "hơn nữa còn",
+"ex": "이 식당은 음식 값이 __싼 데다가__ 종업원도 아주 친절하다.",
+"v": "Quán này [giá đã rẻ lại] nhân viên còn rất thân thiện."
+},
+{
+"p": "-는 것은 물론이고",
+"m": "chưa kể còn",
+"ex": "이 식당은 음식 값이 __싼 것은 물론이고__ 종업원도 아주 친절하다.",
+"v": "Quán này [giá rẻ thì khỏi nói], nhân viên còn rất thân thiện."
+}
+]
+},
+{
+"id": "V03_05",
+"ko": "이유",
+"vi": "Nhóm 06 · Lý do (tiêu cực/bất ngờ)",
+"gn": [
+"C",
+"-는 바람에 = -는 통에 = -(으)ㄴ 탓에 thay được (vì → kết quả xấu). -느라고 chỉ thay được khi hai vế cùng chủ ngữ và vế trước là việc mình làm (서둘러 나오느라고)."
+],
+"w": [
+{
+"p": "-는 바람에",
+"m": "vì... nên (lỡ)",
+"ex": "사람들이 하도 __떠드는 바람에__ 친구하고 대화를 할 수가 없었다.",
+"v": "Mọi người [ồn ào quá nên] tôi không nói chuyện với bạn được."
+},
+{
+"p": "-는 통에",
+"m": "do... quá nên",
+"ex": "사람들이 하도 __떠드는 통에__ 친구하고 대화를 할 수가 없었다.",
+"v": "Mọi người [ồn ào quá nên] tôi không nói chuyện với bạn được."
+},
+{
+"p": "-느라고",
+"m": "vì mải... nên",
+"ex": "서둘러 __나오느라고__ 지갑을 안 가지고 나왔다.",
+"v": "[Vì vội ra khỏi nhà nên] tôi quên mang ví."
+},
+{
+"p": "-(으)ㄴ 탓에",
+"m": "tại vì... mà",
+"ex": "서둘러 __나온 탓에__ 지갑을 안 가지고 나왔다.",
+"v": "[Tại vội ra khỏi nhà nên] tôi quên mang ví."
+}
+]
+},
+{
+"id": "V03_06",
+"ko": "우려",
+"vi": "Nhóm 07 · Lo lắng, phòng ngừa",
+"gn": [
+"T",
+"Thay được cho nhau (sợ / e là… nên làm trước)."
+],
+"w": [
+{
+"p": "-(으)ㄹ까 봐(서)",
+"m": "sợ rằng sẽ",
+"ex": "처음 자전거를 배울 때 __넘어질까 봐__ 걱정했는데 생각보다 쉬웠다.",
+"v": "Lần đầu học xe đạp tôi lo [sợ bị ngã], hóa ra dễ hơn tôi nghĩ."
+},
+{
+"p": "-(으)ㄹ 것 같아서",
+"m": "vì có vẻ sẽ",
+"ex": "처음 자전거를 배울 때 __넘어질 것 같아서__ 걱정했는데 생각보다 쉬웠다.",
+"v": "Lần đầu học xe đạp tôi lo [vì thấy như sắp ngã], hóa ra dễ hơn tôi nghĩ."
+},
+{
+"p": "-(으)ㄹ지도 몰라서",
+"m": "vì có thể sẽ",
+"ex": "지각을 하면 앞자리에 앉을 수 __없을지도 몰라서__ 미리 강의실로 갔다.",
+"v": "Đi muộn thì [có thể không được] ngồi bàn đầu [nên] tôi đến lớp sớm."
+}
+]
+},
+{
+"id": "V03_07",
+"ko": "순서",
+"vi": "Nhóm 08 · Trình tự, ngay lập tức",
+"gn": [
+"C",
+"Thay được (vừa… là ngay). -는 대로, -(으)면 바로 hay nói việc sắp làm; -기가 무섭게 nhấn mạnh “vừa… là” và hay kể việc đã xảy ra."
+],
+"w": [
+{
+"p": "-자마자",
+"m": "vừa... là",
+"ex": "나는 버스터미널에 __도착하자마자__ 부모님께 전화를 드릴 생각이다.",
+"v": "Tôi định [vừa đến] bến xe [là] gọi điện cho bố mẹ."
+},
+{
+"p": "-는 대로",
+"m": "ngay khi vừa",
+"ex": "나는 버스터미널에 __도착하는 대로__ 부모님께 전화를 드릴 생각이다.",
+"v": "Tôi định [đến] bến xe [là] gọi điện cho bố mẹ ngay."
+},
+{
+"p": "-(으)면 바로",
+"m": "hễ... là ngay",
+"ex": "나는 버스터미널에 __도착하면 바로__ 부모님께 전화를 드릴 생각이다.",
+"v": "Tôi định [đến] bến xe [thì] gọi điện cho bố mẹ [ngay]."
+},
+{
+"p": "-기가 무섭게",
+"m": "vừa mới... đã",
+"ex": "백화점 입장이 __시작되기가 무섭게__ 손님들이 몰려들었다.",
+"v": "Trung tâm thương mại [vừa mở cửa là] khách ùa vào."
+}
+]
+},
+{
+"id": "V03_08",
+"ko": "판단",
+"vi": "Nhóm 09 · Phán đoán, coi như tương đương",
+"gn": [
+"C",
+"-(으)ㄴ/는 셈이다 = -는 거나 같다 = -는 거나 마찬가지이다 = -는 거나 다름없다 thay được (coi như). -는 편이다 (thuộc dạng, khá là) không hoàn toàn cùng nghĩa, nhưng khi nhận định chung chung (눈이 좋은 셈이다 ≈ 좋은 편이다) và 3 đáp án kia sai hẳn thì đề vẫn coi là đáp án gần nghĩa nhất."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는 셈이다",
+"m": "coi như là",
+"ex": "오늘이 벌써 12월 말이니까 올해도 다 __지나간 셈이다__.",
+"v": "Đã cuối tháng 12 rồi nên năm nay [coi như] đã hết."
+},
+{
+"p": "-는 거나 같다",
+"m": "chẳng khác gì",
+"ex": "오늘이 벌써 12월 말이니까 올해도 다 __지나간 거나 같다__.",
+"v": "Đã cuối tháng 12 rồi nên năm nay [cũng như] đã hết."
+},
+{
+"p": "-는 거나 마찬가지이다",
+"m": "cũng như là",
+"ex": "오늘이 벌써 12월 말이니까 올해도 다 __지나간 거나 마찬가지이다__.",
+"v": "Đã cuối tháng 12 rồi nên năm nay [chẳng khác gì] đã hết."
+},
+{
+"p": "-는 거나 다름없다",
+"m": "không khác gì",
+"ex": "오늘이 벌써 12월 말이니까 올해도 다 __지나간 거나 다름없다__.",
+"v": "Đã cuối tháng 12 rồi nên năm nay [không khác gì] đã hết."
+},
+{
+"p": "-는 편이다",
+"m": "thuộc dạng, thuộc loại",
+"ex": "저는 매운 음식을 잘 __먹는 편이에요__.",
+"v": "Tôi [thuộc dạng ăn] cay giỏi."
+}
+]
+},
+{
+"id": "V03_09",
+"ko": "선택",
+"vi": "Nhóm 10 · Lựa chọn (dù có hay không)",
+"gn": [
+"T",
+"Thay được cho nhau (có làm hay không thì kết quả cũng vậy)."
+],
+"w": [
+{
+"p": "-(으)나 마나",
+"m": "dù có... hay không",
+"ex": "__물어보나 마나__ 동생은 집에 있겠다고 할 것이다.",
+"v": "[Có hỏi hay không thì] em tôi cũng sẽ bảo ở nhà."
+},
+{
+"p": "-아/어도",
+"m": "dù có... cũng",
+"ex": "__물어봐도__ 동생은 집에 있겠다고 할 것이다.",
+"v": "[Có hỏi thì] em tôi cũng sẽ bảo ở nhà."
+},
+{
+"p": "-지 않아도",
+"m": "dù không... cũng",
+"ex": "__물어보지 않아도__ 동생은 집에 있겠다고 할 것이다.",
+"v": "[Không cần hỏi] em tôi cũng sẽ bảo ở nhà."
+},
+{
+"p": "-(으)ㄹ 것도 없이",
+"m": "chẳng cần phải",
+"ex": "__물어볼 것도 없이__ 동생은 집에 있겠다고 할 것이다.",
+"v": "[Chẳng cần hỏi] em tôi cũng sẽ bảo ở nhà."
+}
+]
+},
+{
+"id": "V03_10",
+"ko": "목적",
+"vi": "Nhóm 11 · Mục đích (để không)",
+"gn": [
+"T",
+"Thay được cho nhau (để cho, để không)."
+],
+"w": [
+{
+"p": "-게",
+"m": "để (không)",
+"ex": "금요일이 장학금 신청일이라서 __잊어버리지 않게__ 달력에 표시해 두었다.",
+"v": "Thứ Sáu là hạn nộp học bổng nên tôi đánh dấu lên lịch [để khỏi quên]."
+},
+{
+"p": "-도록",
+"m": "để cho (không)",
+"ex": "금요일이 장학금 신청일이라서 __잊어버리지 않도록__ 달력에 표시해 두었다.",
+"v": "Thứ Sáu là hạn nộp học bổng nên tôi đánh dấu lên lịch [để không quên]."
+}
+]
+},
+{
+"id": "V03_11",
+"ko": "진행",
+"vi": "Nhóm 12 · Tiện đường, đang làm thì",
+"gn": [
+"C",
+"Chỉ thay được khi nói về đường đi / về (가다, 오다, 들어오다…): -는 길에 trên đường · -다가 đang… thì."
+],
+"w": [
+{
+"p": "-는 길에",
+"m": "nhân tiện trên đường",
+"ex": "집에 __들어오는 길에__ 꽃이 예뻐서 한 다발을 샀다.",
+"v": "[Trên đường về] nhà thấy hoa đẹp nên mua một bó."
+},
+{
+"p": "-다가",
+"m": "đang... thì",
+"ex": "집에 __들어오다가__ 꽃이 예뻐서 한 다발을 샀다.",
+"v": "[Đang về] nhà thì thấy hoa đẹp nên mua một bó."
+}
+]
+},
+{
+"id": "V03_12",
+"ko": "행동",
+"vi": "Nhóm 13 · Giả sử có làm thì cũng",
+"gn": [
+"T",
+"Thay được cho nhau (có làm thì cũng vô ích); vế sau thường tiêu cực."
+],
+"w": [
+{
+"p": "-아/어 봐야",
+"m": "có... thì cũng vậy",
+"ex": "좀 비싼 것 같지만 다른 가게에 __가 봐야__ 값이 다 비슷할 것 같다.",
+"v": "Hơi đắt nhưng [có sang] cửa hàng khác [thì] giá chắc cũng vậy."
+},
+{
+"p": "-아/어도",
+"m": "dù có... cũng",
+"ex": "좀 비싼 것 같지만 다른 가게에 __가 봐도__ 값이 다 비슷할 것 같다.",
+"v": "Hơi đắt nhưng [dù có sang] cửa hàng khác thì giá chắc cũng vậy."
+},
+{
+"p": "-ㄴ/는다고 해도",
+"m": "cho dù có... đi nữa",
+"ex": "좀 비싼 것 같지만 다른 가게에 __가 본다고 해도__ 값이 다 비슷할 것 같다.",
+"v": "Hơi đắt nhưng [cho dù có sang] cửa hàng khác thì giá chắc cũng vậy."
+}
+]
+},
+{
+"id": "V03_13",
+"ko": "유일",
+"vi": "Nhóm 14 · Chỉ đơn thuần là, không hơn",
+"gn": [
+"C",
+"-(으)ㄹ 뿐이다 = -에 불과하다 = -에 지나지 않는다 thay được (chỉ là). -(으)ㄹ 따름이다 = chỉ… thôi, trang trọng, hay đi với cảm xúc (미안할 따름이다)."
+],
+"w": [
+{
+"p": "-(으)ㄹ 뿐이다",
+"m": "chỉ là",
+"ex": "바빠서 일을 못 끝냈다는 말은 __변명일 뿐이다__.",
+"v": "Nói bận nên không xong việc [chỉ là] cái cớ [thôi]."
+},
+{
+"p": "-에 불과하다",
+"m": "chẳng qua chỉ là",
+"ex": "바빠서 일을 못 끝냈다는 말은 __변명에 불과하다__.",
+"v": "Nói bận nên không xong việc [chẳng qua chỉ là] cái cớ."
+},
+{
+"p": "-에 지나지 않는다",
+"m": "không hơn không kém là",
+"ex": "바빠서 일을 못 끝냈다는 말은 __변명에 지나지 않는다__.",
+"v": "Nói bận nên không xong việc [không hơn gì] một cái cớ."
+},
+{
+"p": "-(으)ㄹ 따름이다",
+"m": "chỉ đơn thuần là",
+"ex": "친구에게 항상 도움을 받기만 해서 __미안할 따름이다__.",
+"v": "Lúc nào cũng nhận sự giúp đỡ của bạn nên tôi [chỉ biết áy náy]."
+}
+]
+},
+{
+"id": "V03_14",
+"ko": "유감",
+"vi": "Nhóm 15 · Tiếc nuối vì đã không làm",
+"gn": [
+"T",
+"Thay được cho nhau (tiếc vì đã không làm)."
+],
+"w": [
+{
+"p": "-았/었어야 했는데",
+"m": "đáng lẽ nên... mà",
+"ex": "졸업하고 보니 학교 다닐 때 좀 더 열심히 __공부했어야 했다__는 생각이 든다.",
+"v": "Ra trường rồi mới thấy [lẽ ra] hồi đi học [phải học] chăm hơn."
+},
+{
+"p": "-(으)ㄹ걸 그랬다",
+"m": "giá mà... thì tốt",
+"ex": "졸업하고 보니 학교 다닐 때 좀 더 열심히 __공부할걸 그랬다__는 생각이 든다.",
+"v": "Ra trường rồi mới thấy [phải chi] hồi đi học [học] chăm hơn."
+}
+]
+},
+{
+"id": "V03_15",
+"ko": "계획",
+"vi": "Nhóm 16 · Đang định làm thì",
+"gn": [
+"T",
+"Thay được cho nhau (vừa định làm thì)."
+],
+"w": [
+{
+"p": "-(으)려던 참이다",
+"m": "đang định... thì",
+"ex": "사무실이 너무 더워서 안 그래도 막 에어컨을 __켜려던 참이었다__.",
+"v": "Văn phòng nóng quá, tôi cũng [vừa định bật] điều hòa."
+},
+{
+"p": "-(으)려고 했다",
+"m": "đã định",
+"ex": "사무실이 너무 더워서 안 그래도 막 에어컨을 __켜려고 했다__.",
+"v": "Văn phòng nóng quá, tôi cũng [đã định bật] điều hòa."
+}
+]
+},
+{
+"id": "V03_16",
+"ko": "목적",
+"vi": "Nhóm 17 · Mục đích (để, nhằm)",
+"gn": [
+"T",
+"Thay được cho nhau (để, nhằm). -(으)려고 không đi với mệnh lệnh, rủ rê."
+],
+"w": [
+{
+"p": "-기 위해서",
+"m": "để",
+"ex": "요즘 살을 __빼기 위해서__ 열심히 운동을 하고 있다.",
+"v": "Dạo này tôi tập thể dục chăm chỉ [để giảm] cân."
+},
+{
+"p": "-(으)려고",
+"m": "nhằm",
+"ex": "요즘 살을 __빼려고__ 열심히 운동을 하고 있다.",
+"v": "Dạo này tôi tập thể dục chăm chỉ [để giảm] cân."
+},
+{
+"p": "-고자",
+"m": "với mục đích",
+"ex": "요즘 살을 __빼고자__ 열심히 운동을 하고 있다.",
+"v": "Dạo này tôi tập thể dục chăm chỉ [nhằm giảm] cân."
+}
+]
+},
+{
+"id": "V03_17",
+"ko": "방법: 일관",
+"vi": "Nhóm 18 · Phương pháp, làm theo y hệt",
+"gn": [
+"T",
+"Thay được cho nhau (làm đúng như)."
+],
+"w": [
+{
+"p": "-는 대로",
+"m": "đúng như",
+"ex": "요가를 배우는데 선생님이 __하는 대로__ 따라 하기가 쉽지 않다.",
+"v": "Học yoga, làm theo [đúng như] cô giáo [làm] không dễ chút nào."
+},
+{
+"p": "-는 것처럼",
+"m": "giống như",
+"ex": "요가를 배우는데 선생님이 __하는 것처럼__ 따라 하기가 쉽지 않다.",
+"v": "Học yoga, làm theo [giống như] cô giáo [làm] không dễ chút nào."
+},
+{
+"p": "-는 것과 같이",
+"m": "y như",
+"ex": "요가를 배우는데 선생님이 __하는 것과 같이__ 따라 하기가 쉽지 않다.",
+"v": "Học yoga, làm theo [y như] cô giáo [làm] không dễ chút nào."
+}
+]
+},
+{
+"id": "V03_18",
+"ko": "조건",
+"vi": "Nhóm 19 · Điều kiện, tùy thuộc cách làm",
+"gn": [
+"T",
+"Thay được cho nhau (tùy vào): -기에 달려 있다 = -기 나름이다."
+],
+"w": [
+{
+"p": "-에 달려 있다",
+"m": "phụ thuộc vào",
+"ex": "똑같은 재료인데도 음식 맛이 다른 걸 보면 음식은 __요리하기에 달려 있다__.",
+"v": "Cùng nguyên liệu mà vị khác nhau, thì ra món ăn [phụ thuộc vào cách nấu]."
+},
+{
+"p": "-기 나름이다",
+"m": "tùy vào cách",
+"ex": "똑같은 재료인데도 음식 맛이 다른 걸 보면 음식은 __요리하기 나름이다__.",
+"v": "Cùng nguyên liệu mà vị khác nhau, thì ra món ăn [là tùy cách nấu]."
+}
+]
+},
+{
+"id": "V03_19",
+"ko": "추측",
+"vi": "Nhóm 20 · Không chắc chắn",
+"gn": [
+"T",
+"Thay được cho nhau (có thể, không chắc)."
+],
+"w": [
+{
+"p": "-(으)ㄹ지도 모르다",
+"m": "có lẽ sẽ",
+"ex": "예상보다 손님이 많이 와서 준비한 음식이 __부족할지도 모른다__.",
+"v": "Khách đến đông hơn dự kiến nên đồ ăn [có lẽ sẽ thiếu]."
+},
+{
+"p": "-(으)ㄹ 수도 있다",
+"m": "cũng có thể",
+"ex": "예상보다 손님이 많이 와서 준비한 음식이 __부족할 수도 있다__.",
+"v": "Khách đến đông hơn dự kiến nên đồ ăn [có thể sẽ thiếu]."
+}
+]
+},
+{
+"id": "V03_20",
+"ko": "판단",
+"vi": "Nhóm 21 · Đáng để, có thể",
+"gn": [
+"C",
+"Gần nghĩa: -(으)ㄹ 만하다 = đáng để; -(으)ㄹ 수 있는 = có thể. Đề coi là tương đương."
+],
+"w": [
+{
+"p": "-(으)ㄹ 만하다",
+"m": "đáng để",
+"ex": "서울 근교에는 가족들과 함께 즐겁게 __놀 만한__ 곳이 많이 있다.",
+"v": "Ngoại ô Seoul có nhiều nơi [đáng để] cả gia đình [vui chơi]."
+},
+{
+"p": "-(으)ㄹ 수 있는",
+"m": "có thể",
+"ex": "서울 근교에는 가족들과 함께 즐겁게 __놀 수 있는__ 곳이 많이 있다.",
+"v": "Ngoại ô Seoul có nhiều nơi [có thể] cả gia đình [vui chơi]."
+}
+]
+},
+{
+"id": "V03_21",
+"ko": "포함: 부정",
+"vi": "Nhóm 22 · Phủ định bao hàm mạnh",
+"gn": [
+"C",
+"Thay được khi vế sau phủ định (밥은커녕 물조차 못 마신다). -은/는커녕 chỉ dùng khi vế sau phủ định hoặc trái mong đợi."
+],
+"w": [
+{
+"p": "-은/는커녕",
+"m": "đừng nói chi tới",
+"ex": "목이 너무 아파서 __밥은커녕__ 물조차 못 마신다.",
+"v": "Đau họng quá, [đừng nói] cơm, đến nước cũng không uống được."
+},
+{
+"p": "-는 것은 물론이고",
+"m": "chưa nói tới... mà",
+"ex": "목이 너무 아파서 __밥은 물론이고__ 물조차 못 마신다.",
+"v": "Đau họng quá, [cơm thì khỏi nói], đến nước cũng không uống được."
+},
+{
+"p": "-는 것은 말할 것도 없고",
+"m": "khỏi phải nói tới",
+"ex": "목이 너무 아파서 __밥은 말할 것도 없고__ 물조차 못 마신다.",
+"v": "Đau họng quá, [cơm thì không cần nói], đến nước cũng không uống được."
+}
+]
+},
+{
+"id": "V03_22",
+"ko": "행동",
+"vi": "Nhóm 23 · Giả vờ",
+"gn": [
+"T",
+"Thay được cho nhau (giả vờ)."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는 척하다",
+"m": "giả vờ như",
+"ex": "회사 동료가 바빠 보였지만 도와주고 싶지 않아서 __모르는 척했다__.",
+"v": "Đồng nghiệp trông bận nhưng tôi không muốn giúp nên [giả vờ không biết]."
+},
+{
+"p": "-는 체하다",
+"m": "giả bộ như",
+"ex": "회사 동료가 바빠 보였지만 도와주고 싶지 않아서 __모르는 체했다__.",
+"v": "Đồng nghiệp trông bận nhưng tôi không muốn giúp nên [làm như không biết]."
+},
+{
+"p": "-는 것처럼 행동하다",
+"m": "hành động như thể",
+"ex": "회사 동료가 바빠 보였지만 도와주고 싶지 않아서 __모르는 것처럼 행동했다__.",
+"v": "Đồng nghiệp trông bận nhưng tôi không muốn giúp nên [cư xử như không biết]."
+}
+]
+},
+{
+"id": "V03_23",
+"ko": "경험",
+"vi": "Nhóm 24 · Trải nghiệm lặp lại dẫn đến kết quả",
+"gn": [
+"C",
+"Gần nghĩa: -다가 보니까 = cứ làm mãi thành ra; -는 탓에 = tại vì (kết quả xấu)."
+],
+"w": [
+{
+"p": "-다가 보니까",
+"m": "làm mãi rồi nhận ra",
+"ex": "바빠서 식사를 제시간에 __못 하다가 보니까__ 속이 쓰릴 때가 많아졌다.",
+"v": "Bận nên [cứ không ăn] đúng giờ [thành ra] hay bị xót dạ dày."
+},
+{
+"p": "-는 탓에",
+"m": "vì cứ... nên",
+"ex": "바빠서 식사를 제시간에 __못 하는 탓에__ 속이 쓰릴 때가 많아졌다.",
+"v": "Bận nên [vì không ăn] đúng giờ [mà] hay bị xót dạ dày."
+}
+]
+},
+{
+"id": "V03_24",
+"ko": "비유",
+"vi": "Nhóm 25 · So sánh",
+"gn": [
+"T",
+"Thay được cho nhau (giống như)."
+],
+"w": [
+{
+"p": "-듯이",
+"m": "tựa như",
+"ex": "나라마다 언어가 __다르듯이__ 문화도 다르다.",
+"v": "[Giống như] mỗi nước một ngôn ngữ, văn hóa cũng khác nhau."
+},
+{
+"p": "-는 것처럼",
+"m": "giống như",
+"ex": "나라마다 언어가 __다른 것처럼__ 문화도 다르다.",
+"v": "[Cũng như] mỗi nước một ngôn ngữ, văn hóa cũng khác nhau."
+},
+{
+"p": "-(으)ㄴ 것같이",
+"m": "giống như là",
+"ex": "아이가 어른이 __된 것같이__ 의젓하게 말했어요.",
+"v": "Đứa trẻ nói chững chạc [như thể đã thành] người lớn."
+}
+]
+},
+{
+"id": "V03_25",
+"ko": "상반",
+"vi": "Nhóm 26 · Đối lập hai đặc điểm",
+"gn": [
+"T",
+"Thay được cho nhau (trái lại)."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는 반면에",
+"m": "trong khi đó",
+"ex": "이 제품은 열에 __강한 반면에__ 습기에는 약하다.",
+"v": "Sản phẩm này chịu nhiệt tốt [nhưng ngược lại] chịu ẩm kém."
+},
+{
+"p": "-는 데 반해",
+"m": "ngược lại thì",
+"ex": "이 제품은 열에 __강한 데 반해__ 습기에는 약하다.",
+"v": "Sản phẩm này chịu nhiệt tốt, [trái lại] chịu ẩm kém."
+}
+]
+},
+{
+"id": "V03_26",
+"ko": "상반",
+"vi": "Nhóm 27 · Nhượng bộ (biết nhưng vẫn)",
+"gn": [
+"T",
+"Thay được cho nhau (biết mà vẫn)."
+],
+"w": [
+{
+"p": "-(으)면서(도)",
+"m": "dù biết rõ mà vẫn",
+"ex": "친구가 곤란할까 봐 그 사실을 __알면서__ 모른 척했다.",
+"v": "Sợ bạn khó xử nên [biết mà vẫn] làm như không biết."
+},
+{
+"p": "-고서도",
+"m": "dù đã... mà vẫn",
+"ex": "친구가 곤란할까 봐 그 사실을 __알고서도__ 모른 척했다.",
+"v": "Sợ bạn khó xử nên [đã biết rồi mà vẫn] làm như không biết."
+}
+]
+},
+{
+"id": "V03_27",
+"ko": "상반",
+"vi": "Nhóm 28 · Nhượng bộ (mặc dù)",
+"gn": [
+"T",
+"Thay được cho nhau (nhưng, vậy mà)."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는데(도)",
+"m": "dù đã... vẫn",
+"ex": "나는 공부를 열심히 __하는데도__ 성적이 잘 오르지 않는다.",
+"v": "Tôi [học] chăm chỉ [vậy mà] điểm không lên mấy."
+},
+{
+"p": "-지만",
+"m": "nhưng",
+"ex": "나는 공부를 열심히 __하지만__ 성적이 잘 오르지 않는다.",
+"v": "Tôi [học] chăm chỉ [nhưng] điểm không lên mấy."
+}
+]
+},
+{
+"id": "V03_28",
+"ko": "상반",
+"vi": "Nhóm 29 · Đối lập hai mặt cùng sự việc",
+"gn": [
+"C",
+"Gần nghĩa: đều nói hai mặt trái ngược của một việc."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는가 하면",
+"m": "có lúc thì... có lúc thì",
+"ex": "이 영화는 재미있는 부분이 __있는가 하면__ 지루한 부분도 꽤 있다.",
+"v": "Bộ phim này [có] đoạn hay [thì cũng có] đoạn khá chán."
+},
+{
+"p": "-기는 하지만",
+"m": "tuy có... nhưng",
+"ex": "이 영화는 재미있는 부분이 __있기는 하지만__ 지루한 부분도 꽤 있다.",
+"v": "Bộ phim này [có] đoạn hay [thật nhưng] cũng có đoạn khá chán."
+}
+]
+},
+{
+"id": "V03_29",
+"ko": "선택: 무관",
+"vi": "Nhóm 30 · Bất kể lựa chọn nào",
+"gn": [
+"C",
+"Chỉ thay được khi có từ để hỏi (뭘, 어디, 누구…) = dù… nào cũng."
+],
+"w": [
+{
+"p": "-든지",
+"m": "dù là... gì đi nữa",
+"ex": "저 사람과 같이 일한다면 뭘 __하든지__ 열심히 하는 사람이면 좋겠다.",
+"v": "Nếu làm chung với người đó, mong là người đó [làm gì cũng] chăm chỉ."
+},
+{
+"p": "-더라도",
+"m": "dù có... đi nữa",
+"ex": "저 사람과 같이 일한다면 뭘 __하더라도__ 열심히 하는 사람이면 좋겠다.",
+"v": "Nếu làm chung với người đó, mong là người đó [dù làm gì cũng] chăm chỉ."
+}
+]
+},
+{
+"id": "V03_30",
+"ko": "정도: 시간",
+"vi": "Nhóm 31 · Mức độ, thời gian cho đến khi",
+"gn": [
+"T",
+"Thay được cho nhau (cho đến khi)."
+],
+"w": [
+{
+"p": "-도록",
+"m": "đến mức",
+"ex": "아이는 날이 __어두워지도록__ 아무 연락도 없었다.",
+"v": "Đứa bé [đến tận khi] trời tối vẫn không liên lạc gì."
+},
+{
+"p": "-(으)ㄹ 때까지",
+"m": "cho đến khi",
+"ex": "아이는 날이 __어두워질 때까지__ 아무 연락도 없었다.",
+"v": "Đứa bé [cho đến khi] trời tối vẫn không liên lạc gì."
+}
+]
+},
+{
+"id": "V03_31",
+"ko": "이유: 정보",
+"vi": "Nhóm 32 · Lý do từ thông tin vừa biết",
+"gn": [
+"T",
+"Thay được cho nhau (vì nghe nói)."
+],
+"w": [
+{
+"p": "-(ㄴ/는)다기에/길래",
+"m": "nghe nói là... nên",
+"ex": "눈이 피곤할 때 먼 곳을 쳐다보면 효과가 __있다기에__ 해 보는 중이다.",
+"v": "[Nghe nói] mỏi mắt thì nhìn ra xa [có tác dụng nên] tôi đang làm thử."
+},
+{
+"p": "-다고 해서",
+"m": "vì nghe bảo là",
+"ex": "눈이 피곤할 때 먼 곳을 쳐다보면 효과가 __있다고 해서__ 해 보는 중이다.",
+"v": "[Vì nghe nói] mỏi mắt thì nhìn ra xa có tác dụng nên tôi đang làm thử."
+}
+]
+},
+{
+"id": "V03_32",
+"ko": "가정: 의도",
+"vi": "Nhóm 33 · Điều kiện giả định để đạt mục đích",
+"gn": [
+"T",
+"Thay được cho nhau (muốn… thì)."
+],
+"w": [
+{
+"p": "-(으)려면",
+"m": "nếu muốn... thì",
+"ex": "외국에서 생활을 __잘하려면__ 그 나라의 문화를 이해하는 게 중요하다.",
+"v": "[Muốn sống tốt] ở nước ngoài [thì] hiểu văn hóa nước đó là quan trọng."
+},
+{
+"p": "-기 위해서는",
+"m": "để có thể",
+"ex": "외국에서 생활을 __잘하기 위해서는__ 그 나라의 문화를 이해하는 게 중요하다.",
+"v": "[Để sống tốt] ở nước ngoài thì hiểu văn hóa nước đó là quan trọng."
+}
+]
+},
+{
+"id": "V03_33",
+"ko": "판단: 주관",
+"vi": "Nhóm 34 · Nhận định chủ quan qua vẻ ngoài",
+"gn": [
+"C",
+"Gần nghĩa: -아/어 보이다 = trông có vẻ (thấy bằng mắt); -는 것 같다 dùng rộng hơn."
+],
+"w": [
+{
+"p": "-아/어 보이다",
+"m": "trông có vẻ",
+"ex": "친구가 기분 좋은 일이 있는지 기분이 __좋아 보였다__.",
+"v": "Bạn có chuyện vui hay sao mà [trông] tâm trạng [rất vui]."
+},
+{
+"p": "-는 것 같다",
+"m": "có vẻ như",
+"ex": "친구가 기분 좋은 일이 있는지 기분이 __좋은 것 같았다__.",
+"v": "Bạn có chuyện vui hay sao mà tâm trạng [có vẻ vui]."
+}
+]
+},
+{
+"id": "V03_34",
+"ko": "추측: 확신",
+"vi": "Nhóm 35 · Khẳng định chắc chắn (phủ định khả năng)",
+"gn": [
+"C",
+"Gần nghĩa: -(으)ㄹ 리가 없다 phủ định mạnh hơn (không đời nào)."
+],
+"w": [
+{
+"p": "-(으)ㄹ 리가 없다",
+"m": "không đời nào",
+"ex": "그는 정직하기 때문에 거짓말을 __했을 리가 없다__.",
+"v": "Anh ấy thật thà nên [không đời nào] nói dối."
+},
+{
+"p": "-지 않았을 것이다",
+"m": "chắc hẳn đã không",
+"ex": "그는 정직하기 때문에 거짓말을 __하지 않았을 것이다__.",
+"v": "Anh ấy thật thà nên [chắc là không] nói dối."
+}
+]
+},
+{
+"id": "V03_35",
+"ko": "유일",
+"vi": "Nhóm 36 · Hễ cứ... là...",
+"gn": [
+"T",
+"Thay được cho nhau (hễ cứ… là)."
+],
+"w": [
+{
+"p": "-기만 하다",
+"m": "hễ cứ... là",
+"ex": "목감기에 걸려서 그런지 음식을 __먹기만 하면__ 목이 아프다.",
+"v": "Có lẽ do viêm họng mà [cứ ăn là] đau họng."
+},
+{
+"p": "-(으)ㄹ 때마다",
+"m": "mỗi lần... là",
+"ex": "목감기에 걸려서 그런지 음식을 __먹을 때마다__ 목이 아프다.",
+"v": "Có lẽ do viêm họng mà [mỗi khi ăn] là đau họng."
+}
+]
+},
+{
+"id": "V03_36",
+"ko": "지속",
+"vi": "Nhóm 37 · Duy trì nguyên trạng thái",
+"gn": [
+"C",
+"Chỉ thay được với động từ mặc / đội / che (입다, 쓰다, 신다…): giữ nguyên trạng thái."
+],
+"w": [
+{
+"p": "-(으)ㄴ 채(로)",
+"m": "trong tư thế",
+"ex": "저기 우산을 __쓴 채__ 서 있는 사람이 오늘 소개할 사람이다.",
+"v": "Người [đang che] ô đứng đằng kia là người hôm nay tôi giới thiệu."
+},
+{
+"p": "-고",
+"m": "và (vẫn)",
+"ex": "저기 우산을 __쓰고__ 서 있는 사람이 오늘 소개할 사람이다.",
+"v": "Người [che] ô đứng đằng kia là người hôm nay tôi giới thiệu."
+}
+]
+},
+{
+"id": "V03_37",
+"ko": "상반",
+"vi": "Nhóm 38 · Nhượng bộ (dù đã...)",
+"gn": [
+"T",
+"Thay được cho nhau (dù đã… mà vẫn)."
+],
+"w": [
+{
+"p": "-고도",
+"m": "dù đã... mà",
+"ex": "스마트폰이 복잡해서 그런지 어머니가 설명을 __듣고도__ 모르겠다고 하셨다.",
+"v": "Smartphone phức tạp hay sao mà mẹ [nghe giải thích rồi vẫn] bảo không hiểu."
+},
+{
+"p": "-는데도",
+"m": "mặc dù đã... vẫn",
+"ex": "스마트폰이 복잡해서 그런지 어머니가 설명을 __들었는데도__ 모르겠다고 하셨다.",
+"v": "Smartphone phức tạp hay sao mà mẹ [đã nghe giải thích vậy mà] vẫn bảo không hiểu."
+}
+]
+},
+{
+"id": "V03_38",
+"ko": "판단",
+"vi": "Nhóm 39 · Nhận định sai lệch trong quá khứ",
+"gn": [
+"C",
+"Thay được khi đổi khẳng định ↔ phủ định: 있는 줄 몰랐다 = 없다고 생각했다."
+],
+"w": [
+{
+"p": "-(으)ㄴ/는 줄 몰랐다",
+"m": "không ngờ là",
+"ex": "나는 지난주에 모임이 있어서 이번 주 모임은 __있는 줄 몰랐다__.",
+"v": "Tuần trước có buổi họp rồi nên tôi [không biết là] tuần này [cũng có]."
+},
+{
+"p": "-다고 생각했다",
+"m": "cứ nghĩ là",
+"ex": "나는 지난주에 모임이 있어서 이번 주 모임은 __없다고 생각했다__.",
+"v": "Tuần trước có buổi họp rồi nên tôi [cứ nghĩ là] tuần này [không có]."
+}
+]
+},
+{
+"id": "V03_39",
+"ko": "이유",
+"vi": "Nhóm 40 · Nguyên nhân do quá tập trung",
+"gn": [
+"C",
+"Gần nghĩa: -(으)ㄴ 나머지 = quá… đến nỗi; -는 탓에 = tại vì."
+],
+"w": [
+{
+"p": "-(으)ㄴ 나머지",
+"m": "vì quá... đến nỗi",
+"ex": "나는 그림 작업에 __집중한 나머지__ 중요한 전화를 받지 못했다.",
+"v": "Tôi [quá tập trung] vẽ [đến nỗi] không nghe được cuộc gọi quan trọng."
+},
+{
+"p": "-는 탓에",
+"m": "do quá... nên",
+"ex": "나는 그림 작업에 __집중한 탓에__ 중요한 전화를 받지 못했다.",
+"v": "Tôi [vì tập trung] vẽ [mà] không nghe được cuộc gọi quan trọng."
+}
+]
+},
+{
+"id": "V03_40",
+"ko": "이유",
+"vi": "Nhóm 41 · Lý do (nêu nguyên nhân cơ bản)",
+"gn": [
+"C",
+"Đều là “vì”. -기에 / -길래: vế sau là việc “tôi” làm, không dùng mệnh lệnh, rủ rê."
+],
+"w": [
+{
+"p": "-기 때문에",
+"m": "bởi vì... cho nên",
+"ex": "오늘 아침에 늦게 __일어났기 때문에__ 학교에 지각했습니다.",
+"v": "Sáng nay [vì dậy] muộn [nên] tôi đến trường trễ."
+},
+{
+"p": "-기에",
+"m": "xét thấy... nên",
+"ex": "하늘이 __흐리기에__ 우산을 챙겨서 나왔어요.",
+"v": "Trời [âm u nên] tôi mang ô theo."
+},
+{
+"p": "-길래",
+"m": "thấy... nên (mới)",
+"ex": "친구가 재미있다고 __하길래__ 그 영화를 보러 갔어요.",
+"v": "Bạn [bảo] phim hay [nên] tôi đi xem."
+}
+]
+},
+{
+"id": "V03_41",
+"ko": "순서",
+"vi": "Nhóm 42 · Trình tự: hoàn tất rồi mới...",
+"gn": [
+"T",
+"Thay được cho nhau (xong rồi mới)."
+],
+"w": [
+{
+"p": "-고 나서",
+"m": "xong... rồi (mới)",
+"ex": "저녁을 __먹고 나서__ 설거지를 했어요.",
+"v": "[Ăn tối xong] tôi rửa bát."
+},
+{
+"p": "-(으)ㄴ 다음에",
+"m": "sau khi...",
+"ex": "회의가 __끝난 다음에__ 다 같이 점심을 먹었어요.",
+"v": "Cuộc họp [kết thúc xong] cả nhóm cùng đi ăn trưa."
+}
+]
+},
+{
+"id": "V03_42",
+"ko": "진행",
+"vi": "Nhóm 43 · Tận dụng cơ hội, kết hợp mục đích",
+"gn": [
+"L",
+"KHÔNG thay cho nhau: -(으)ㄹ 겸 = (một việc) vừa để… vừa để; -는 김에 = nhân tiện đang làm A thì làm luôn B."
+],
+"w": [
+{
+"p": "-(으)ㄹ 겸(해서)",
+"m": "kiêm..., sẵn tiện kết hợp",
+"ex": "운동도 __할 겸해서__ 회사까지 자전거를 타고 다녀요.",
+"v": "Tôi đạp xe đi làm [cũng là để] tập thể dục."
+},
+{
+"p": "-는 김에",
+"m": "sẵn/nhân tiện đang làm thì",
+"ex": "방을 __청소하는 김에__ 옷장 정리도 했어요.",
+"v": "[Nhân tiện] dọn phòng tôi sắp xếp luôn tủ quần áo."
+}
+]
+}
+]
+}
